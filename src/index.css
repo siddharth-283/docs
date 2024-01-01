@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+*{
+    font-family: "Gilroy";
+}
+
+::selection{
+    /* background-color: #FBBF24; */
+    color: #FBBF24;
+}
